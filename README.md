@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/carlos5845/carlos5845/main/profile-bg.png" width="100%" />
 
 <br>
 
@@ -188,7 +187,7 @@ Un espacio para experimentar con interfaces, animaciones e interacciones.
 `Next.js` `React`
 `Tailwind` `GSAP`
 
-<a href="https://github.com/carlos5845">
+<a href="https://www.carlosdev.net">
 → view project
 </a>
 
