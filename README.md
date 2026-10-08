@@ -1,18 +1,28 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/carlos5845/carlos5845/main/assets/profile-bg.png" width="100%" />
+
+<br>
+
 # `CARLOS_`
 
-### Frontend Developer · Perú 🇵🇪
+### Frontend Developer · Peru 🇵🇪
 
-`CODE` · `PLAY` · `LISTEN` · `CREATE`
-
-<br>
-
-> *"No es solo código, es la forma en que construyo la vida que quiero."*
+`CODE` · `PLAY` · `LISTEN` · `WATCH` · `CREATE`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=carlos5845&label=PROFILE%20VIEWS&color=111111&style=for-the-badge" />
+> *"A veces, los mejores proyectos empiezan con una simple curiosidad."*
+
+<br>
+
+<a href="https://github.com/carlos5845">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -20,188 +30,118 @@
 
 <div align="center">
 
-### `// SYSTEM STATUS`
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   USER        Carlos                                       │
-│   ROLE        Frontend Developer                           │
-│   LOCATION    Peru 🇵🇪                                     │
-│   STATUS      Building something...                        │
-│                                                            │
-│   INTERESTS   Anime · Video Games · Music · Technology     │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+### `— a little bit about me —`
 
 </div>
 
----
+<table>
+<tr>
 
-# `01` — ABOUT ME
+<td width="65%" valign="top">
+
+Soy Carlos, un desarrollador frontend de **Perú 🇵🇪**.
+
+Me gusta crear interfaces modernas, experimentar con nuevas tecnologías y convertir ideas en aplicaciones reales.
+
+Cuando no estoy programando probablemente estoy jugando algún videojuego, escuchando música, viendo anime o simplemente tomando un café mientras pienso en qué construir después.
+
+Actualmente estoy explorando cada vez más el mundo **full-stack**, aprendiendo, experimentando y disfrutando el proceso.
+
+</td>
+
+<td width="35%" valign="top">
 
 ```text
-Soy Carlos, un desarrollador frontend de Perú.
-
-Me gusta crear interfaces modernas, experimentar con nuevas
-tecnologías y convertir ideas en aplicaciones reales.
-
-Cuando no estoy programando probablemente estoy:
-
-    🎮 jugando algún videojuego
-    🎧 escuchando música
-    🎌 viendo anime
-    ☕ tomando café
-    🇵🇪 disfrutando mi país
-
-Actualmente estoy explorando cada vez más el mundo full-stack.
+┌──────────────────────┐
+│                      │
+│  💻  CODE            │
+│  🎮  PLAY            │
+│  🎧  LISTEN          │
+│  🎌  WATCH           │
+│  🇵🇪  PERU            │
+│                      │
+└──────────────────────┘
 ```
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-`FRONTEND DEVELOPER`　`PERUVIAN`　`ANIME FAN`　`GAMER`　`MUSIC LOVER`
+`FRONTEND DEVELOPER` · `GAMER` · `ANIME FAN` · `MUSIC LOVER`
 
 </div>
 
 ---
-
-# `02` — MY STACK
-
-### `FRONTEND`
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/>
-</p>
-
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
-
-### `BACKEND`
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
-</p>
-
-`Node.js` · `Express` · `Laravel` · `PostgreSQL` · `MySQL` · `Supabase`
-
-### `TOOLS`
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Docker` · `Stripe`
-
----
-
-# `03` — CURRENTLY BUILDING
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ████████╗ █████╗ ███████╗██╗  ██╗ █████╗ ███████╗       │
-│   ╚══██╔══╝██╔══██╗██╔════╝██║  ██║██╔══██╗██╔════╝       │
-│      ██║   ███████║███████╗███████║███████║███████╗       │
-│      ██║   ██╔══██║╚════██║██╔══██║██╔══██║╚════██║       │
-│      ██║   ██║  ██║███████║██║  ██║██║  ██║███████║       │
-│      ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝       │
-│                                                             │
-│              PERSONAL PRODUCTIVITY SYSTEM                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### `Tareas`
-
-Personal productivity application for managing:
-
-`TASKS` · `EVENTS` · `GOALS` · `FINANCES`
-
-**Stack**
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind` `Zustand`
+### `— things I use to build —`
 
 </div>
-
----
-
-# `04` — SELECTED PROJECTS
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🎯 Tareas
+### ⚡ Frontend
 
-Personal productivity application.
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38">
+</p>
 
-`Next.js`
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="38">
+</p>
 
-`Supabase`
-
-`PostgreSQL`
-
-`TypeScript`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌐 Portfolio
-
-Personal portfolio focused on animations, interactions and modern frontend.
-
-`Next.js`
-
-`React`
-
-`GSAP`
-
-`Tailwind`
+`React` · `Next.js` · `TypeScript`
+`Tailwind CSS` · `JavaScript`
 
 </td>
 
 <td width="33%" valign="top">
 
-### 💳 Stripe
+### 🗄️ Backend
 
-Payment integration using Stripe Checkout.
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="38">
+</p>
 
-`Next.js`
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38">
+</p>
 
-`TypeScript`
+`Node.js` · `Express` · `Laravel`
+`PostgreSQL` · `MySQL` · `Supabase`
 
+</td>
+
+<td width="33%" valign="top">
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38">
+</p>
+
+`Git` · `GitHub`
+`VS Code` · `Docker`
 `Stripe`
 
 </td>
@@ -211,93 +151,63 @@ Payment integration using Stripe Checkout.
 
 ---
 
-# `05` — GITHUB STATS
-
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=carlos5845&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos5845&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa"
-height="170"
-/>
+### `— things I've been building —`
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=carlos5845&theme=github-compact&hide_border=true&area=true"
-width="95%"
-/>
-
-</div>
-
----
-
-# `06` — OUTSIDE THE CODE
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="33%" valign="top">
 
-## 🎌
+### 🎯 Tareas
 
-### ANIME
+**Personal Productivity Platform**
 
-`One Piece`
+Una aplicación para organizar tareas, eventos, objetivos y finanzas.
 
-`Jujutsu Kaisen`
+`Next.js` `TypeScript`
+`Supabase` `PostgreSQL`
 
-`Attack on Titan`
-
-</td>
-
-<td width="25%" align="center">
-
-## 🎮
-
-### GAMES
-
-`RDR2`
-
-`Elden Ring`
-
-`Valorant`
+<a href="https://github.com/carlos5845">
+→ view project
+</a>
 
 </td>
 
-<td width="25%" align="center">
+<td width="33%" valign="top">
 
-## 🎧
+### 🌐 Portfolio
 
-### MUSIC
+**Personal Portfolio**
 
-`Rock`
+Un espacio para experimentar con interfaces, animaciones e interacciones.
 
-`Lo-Fi`
+`Next.js` `React`
+`Tailwind` `GSAP`
 
-`Anime OST`
+<a href="https://github.com/carlos5845">
+→ view project
+</a>
 
 </td>
 
-<td width="25%" align="center">
+<td width="33%" valign="top">
 
-## 🇵🇪
+### 💳 Stripe
 
-### PERÚ
+**Payment Integration**
 
-`Cultura`
+Integración de pagos utilizando Stripe Checkout.
 
-`Comida`
+`Next.js` `TypeScript`
+`Stripe`
 
-`Paisajes`
+<a href="https://github.com/carlos5845">
+→ view project
+</a>
 
 </td>
 
@@ -306,91 +216,177 @@ width="95%"
 
 ---
 
-# `07` — NOW PLAYING
-
 <div align="center">
+
+### `— currently —`
 
 ```text
-╭─────────────────────────────────────────────────────────────╮
-│                                                             │
-│  🎧  NOW PLAYING                                            │
-│                                                             │
-│      ┌───────────────┐                                      │
-│      │               │       Ryuichi Sakamoto              │
-│      │     MUSIC     │       Merry Christmas Mr. Lawrence  │
-│      │               │                                      │
-│      └───────────────┘       ────────────────               │
-│                                                             │
-│                    ◀       ▶       ▶│                       │
-│                                                             │
-╰─────────────────────────────────────────────────────────────╯
+building    ███████████████████░░░
+
+learning    full-stack development
+
+exploring   UI · UX · animations · architecture
+
+listening   anime OST · lo-fi · rock
+
+playing     whatever I'm currently obsessed with
 ```
-
-</div>
-
-> 🎵 *"Sometimes the best code is written with the right song."*
-
----
-
-# `08` — RANDOM THOUGHT
-
-<div align="center">
-
-### `「夢は終わらない。」`
-
-**"The dream never ends."**
-
-</div>
-
-<br>
-
-<div align="center">
-
-> Every project starts as an idea.
->
-> Every idea starts with curiosity.
->
-> Keep building.
 
 </div>
 
 ---
 
-# `09` — CONNECT
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### 🎧 Now Playing
+
+**Ryuichi Sakamoto**
+
+`Merry Christmas Mr. Lawrence`
+
+> *Sometimes the best code is written with the right song.*
+
+</td>
+
+<td width="40%" valign="top">
+
+### 🎮 Currently Playing
+
+**Red Dead Redemption 2**
+
+`Exploring the west...`
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<a href="https://github.com/carlos5845">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### `— outside the code —`
 
 </div>
 
-<br>
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🎌
+
+**ANIME**
+
+One Piece
+Jujutsu Kaisen
+Attack on Titan
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎮
+
+**GAMES**
+
+RDR2
+Elden Ring
+Valorant
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎧
+
+**MUSIC**
+
+Rock
+Lo-Fi
+Anime OST
+
+</td>
+
+<td align="center" width="25%">
+
+### 🇵🇪
+
+**PERÚ**
+
+Cultura
+Comida
+Paisajes
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-```text
-CODE      PLAY      LISTEN      WATCH      CREATE
-```
+### `— github activity —`
+
+<br>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=carlos5845&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"
+height="165"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos5845&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa"
+height="165"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `— one last thought —`
+
+<br>
+
+## `「夢は終わらない。」`
+
+**The dream never ends.**
+
+<br>
+
+`CODE` × `MUSIC` × `GAMES` × `ANIME`
+
+<br><br>
+
+> *Keep building worlds, one line at a time.*
 
 <br>
 
 🇵🇪 **Made in Peru · Built with curiosity**
 
-<br>
+<br><br>
+
+<a href="https://github.com/carlos5845">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
 
 <img
 src="https://raw.githubusercontent.com/carlos5845/carlos5845/output/snake.svg"
 alt="Snake animation"
-/>
+width="100%"
 
-<br>
-
-`© 2026 Carlos`
+>
 
 </div>
