@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/carlos5845/carlos5845/main/assets/profile-bg.png" width="100%" />
+<img src="https://raw.githubusercontent.com/carlos5845/carlos5845/main/profile-bg.png" width="100%" />
 
 <br>
 
